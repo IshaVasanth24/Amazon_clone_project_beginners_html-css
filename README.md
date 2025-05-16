@@ -1,4 +1,4 @@
-# Amazon_clone_project_for_beginners_html-css
+ # Amazon_clone_project_for_beginners_html-css
 This project is a basic clone of the Amazon website, built using only HTML and CSS. The purpose of this project is to practice front-end development skills, including structuring web pages with HTML and styling them with CSS. While the project is not fully functional, it mimics the design and layout of Amazon's homepage and product pages.
 
 Features
